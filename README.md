@@ -7,7 +7,9 @@
 
 <img src="https://developer.nexmo.com/assets/images/Vonage_Nexmo.svg" height="48px" alt="Nexmo is now known as Vonage" />
 
-This is the community-supported Golang library for [Nexmo](https://nexmo.com). It has support for most of our APIs, but is still under active development. Issues, pull requests and other input is very welcome.
+**This SDK has moved! It is now `vonage-go-sdk`, located at [vonage/vonage-go-sdk](https://github.com/vonage/vonage-go-sdk). New features will be released under `vonage/vonage-go-sdk`, so to take advantage of those please make sure to switch as soon as possible so you don't miss out!**
+
+**For users of older versions: if tracking master gives you a surprise on update, pin to v0.8.1, this is the release from before the refactor and the move to vonage.**
 
 If you don't already know Nexmo: We make telephony APIs. If you need to make a call, check a phone number, or send an SMS then you are in the right place! If you don't have a Nexmo yet, you can [sign up for a Nexmo account](https://dashboard.nexmo.com/sign-up?utm_source=DEV_REL&amp;utm_medium=github&amp;utm_campaign=nexmo-go) and get some free credit to get you started.
 
